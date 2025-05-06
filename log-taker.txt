@@ -4614,3 +4614,12 @@
 5/6/2025 | 2:03:59 AM | INFO | Trying to activate mining on-chain for wallet: 0x232aac1ecf6eE6D3694c5099AB53DbA6c9B8cf90 
 5/6/2025 | 2:04:03 AM | ERROR | Activate Mining Error: {"code":"INSUFFICIENT_FUNDS","transaction":"0x02f86e82046580830186a083200b2082572e94b3efe5105b835e5dd9d206445dbd66df24b912ab808402fb0c5ec001a091f21c54ce3d6c43ef941c233c83b658bbb0819e74eb8823d96bfa9d46dccd7ea03baf1bd18dfd69cb22f1c9d01b9efc2ab8bd78e8bc568aae6f71e509534ed039","info":{"error":{"code":-32603,"message":"insufficient funds for gas * price + value"}},"shortMessage":"insufficient funds for intrinsic transaction cost"}
 5/6/2025 | 2:04:03 AM | ERROR | Wallet already start mine today or wallet dont have taker balance 
+5/6/2025 | 4:30:27 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/6/2025 | 4:30:27 AM | INFO | Start process for wallet 0x232aac1ecf6eE6D3694c5099AB53DbA6c9B8cf90 
+5/6/2025 | 4:30:28 AM | INFO | Trying To Login for wallet: 0x232aac1ecf6eE6D3694c5099AB53DbA6c9B8cf90 
+5/6/2025 | 4:30:28 AM | INFO | Login successful... 
+5/6/2025 | 4:30:28 AM | INFO | Trying to check user info... 
+5/6/2025 | 4:30:29 AM | INFO | User ID: 28188765 | Twitter: @wvanidaa | Total Points: 1824000 
+5/6/2025 | 4:30:29 AM | INFO | Trying to check user miner status... 
+5/6/2025 | 4:30:30 AM | INFO | Last mining time: 5/5/2025, 12:53:12 PM
+5/6/2025 | 4:30:30 AM | WARN | Mining already started, next mining time is: 5/6/2025, 12:53:12 PM
