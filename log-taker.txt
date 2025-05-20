@@ -5418,3 +5418,15 @@
 5/20/2025 | 2:06:39 AM | INFO | Trying to check user miner status... 
 5/20/2025 | 2:06:40 AM | INFO | Last mining time: 5/19/2025, 2:11:18 AM
 5/20/2025 | 2:06:40 AM | WARN | Mining already started, next mining time is: 5/20/2025, 2:11:18 AM
+5/20/2025 | 4:31:06 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/20/2025 | 4:31:06 AM | INFO | Start process for wallet 0x232aac1ecf6eE6D3694c5099AB53DbA6c9B8cf90 
+5/20/2025 | 4:31:07 AM | INFO | Trying To Login for wallet: 0x232aac1ecf6eE6D3694c5099AB53DbA6c9B8cf90 
+5/20/2025 | 4:31:08 AM | INFO | Login successful... 
+5/20/2025 | 4:31:08 AM | INFO | Trying to check user info... 
+5/20/2025 | 4:31:08 AM | INFO | User ID: 28188765 | Twitter: @wvanidaa | Total Points: 2112000 
+5/20/2025 | 4:31:08 AM | INFO | Trying to check user miner status... 
+5/20/2025 | 4:31:09 AM | INFO | Last mining time: 5/19/2025, 2:11:18 AM
+5/20/2025 | 4:31:09 AM | INFO | Trying to start Mining for wallet: 0x232aac1ecf6eE6D3694c5099AB53DbA6c9B8cf90 
+5/20/2025 | 4:31:10 AM | INFO | Mine response: {"code":500,"msg":"startMining Fail, startMining has not reached refresh time","data":null}
+5/20/2025 | 4:31:10 AM | INFO | Trying to activate mining on-chain for wallet: 0x232aac1ecf6eE6D3694c5099AB53DbA6c9B8cf90 
+5/20/2025 | 4:31:16 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0xd32fbe98ef7de5182cf395d6fa0a276f96b8d288bac427f66d3a66616d43ba5b 
